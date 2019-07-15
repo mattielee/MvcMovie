@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{C6BBE6B4-E9BD-4A57-8ED4-ECC816189CB9}|Default">
+  <MonoDevelop.Ide.ItemProperties.MvcMovie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Controllers/MoviesController.cs">
+    <Files>
+      <File FileName="MvcMovie/Controllers/MoviesController.cs" Line="118" Column="101" />
+      <File FileName="MvcMovie/Views/Movies/Index.cshtml" />
+      <File FileName="MvcMovie/Models/MovieGenreViewModel.cs" />
+      <File FileName="MvcMovie/Models/Movie.cs" />
+      <File FileName="MvcMovie/Views/Movies/Create.cshtml" />
+      <File FileName="MvcMovie/Views/Movies/Edit.cshtml" />
+      <File FileName="MvcMovie/Views/Movies/Details.cshtml" />
+      <File FileName="MvcMovie/Views/Movies/Delete.cshtml" />
+      <File FileName="MvcMovie/Models/SeedData.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MvcMovie" expanded="True">
+            <Node name="MvcMovie" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Movie.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" expanded="True" />
+                <Node name="Movies" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
